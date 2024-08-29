@@ -16,7 +16,7 @@ This jupyter notebook file addresses following questions:
  12) What is the Minimum & Maximum value of each column against each 'Weather Condition ?
  13) Show all the Records where Weather Condition is Fog.
  14) Find all instances when 'Weather is Clear' or 'Visibility is above 40'.
- 15) Find all instances when :
-        A. 'Weather is Clear' and 'Relative Humidity is greater than 50'
-        or
+ 15) Find all instances when :<br>
+        A. 'Weather is Clear' and 'Relative Humidity is greater than 50'<br>
+        or<br>
         B. 'Visibility is above 40'
